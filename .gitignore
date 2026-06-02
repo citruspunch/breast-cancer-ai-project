@@ -7,3 +7,5 @@ __pycache__/
 kaggle.json
 
 agent_docs/
+
+data/
