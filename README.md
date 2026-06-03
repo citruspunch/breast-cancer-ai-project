@@ -49,9 +49,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for blazing-fast, dete
 
 ### Option A: Using `uv` (Recommended)
 
-Bash
-
-```
+```Bash
 # Clone the repository
 git clone [https://github.com/your-username/breast-cancer-ai-project.git](https://github.com/your-username/breast-cancer-ai-project.git)
 cd breast-cancer-ai-project
@@ -65,9 +63,7 @@ source .venv/bin/activate
 
 ### Option B: Using Standard `pip`
 
-Bash
-
-```
+```Bash
 # Clone the repository
 git clone [https://github.com/your-username/breast-cancer-ai-project.git](https://github.com/your-username/breast-cancer-ai-project.git)
 cd breast-cancer-ai-project
