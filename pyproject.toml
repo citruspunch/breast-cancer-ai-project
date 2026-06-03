@@ -1,0 +1,39 @@
+[project]
+name = "breast-cancer-ai-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "ruff>=0.15.15",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+]
+
+[tool.ruff]
+# Target Python 3.11 since that is what uv is managing in .venv
+target-version = "py311"
+line-length = 88
+
+# Explicitly tell ruff to lint Jupyter Notebooks when scanning the directory
+extend-include = ["*.ipynb"]
+
+[tool.ruff.lint]
+# E: pycodestyle errors
+# F: Pyflakes (catches unused variables/imports)
+# I: isort (automatically sorts your imports alphabetically)
+# UP: pyupgrade (forces modern Python syntax)
+select = ["E", "F", "I", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+# Ignore "Line Too Long" (E501) specifically inside notebooks.
+# This prevents errors from long Markdown text and dataset URLs.
+"*.ipynb" = ["E501"]
+
+[tool.ruff.format]
+# Standardize on double quotes
+quote-style = "double"
