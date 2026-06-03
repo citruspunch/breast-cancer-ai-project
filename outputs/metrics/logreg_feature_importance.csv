@@ -1,19 +1,19 @@
 ,abs_coefficient
-worst perimeter,3.8384518872102804
-radius error,2.9718874761135305
-worst concave points,2.158155416243194
-worst texture,2.0847076433197564
-compactness error,0.9404667296702139
-worst symmetry,0.5504239171609661
-texture error,0.514998393195568
-concavity error,0.3722723509688041
-smoothness error,0.273372524618644
-fractal dimension error,0.2638722262381543
-worst smoothness,0.21488711536567426
-mean smoothness,0.21100442329279384
-concave points error,0.050474354733321354
-symmetry error,0.0
+worst perimeter,3.8384518872102915
+radius error,2.97188747611355
+worst concave points,2.158155416243209
+worst texture,2.084707643319751
+compactness error,0.9404667296702203
+worst symmetry,0.5504239171609658
+texture error,0.5149983931955624
+concavity error,0.37227235096879546
+smoothness error,0.27337252461865136
+fractal dimension error,0.26387222623813933
+worst smoothness,0.21488711536568228
+mean smoothness,0.21100442329278107
+concave points error,0.05047435473330606
 mean compactness,0.0
 mean fractal dimension,0.0
 mean symmetry,0.0
+symmetry error,0.0
 worst fractal dimension,0.0
