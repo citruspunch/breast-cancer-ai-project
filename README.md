@@ -82,11 +82,11 @@ pip install -r requirements.txt
 
 ## Authors
 
-- **Andrés Tobar** - 23001175
+- **Andrés Tobar** - _23001175_
     
-- **Samuel Marroquín** - _[Teammate 2 Role]_
+- **Samuel Marroquín** - _23006593_
     
-- **Daniel Pérez** - _[Teammate 3 Role]_
+- **Daniel Pérez** - _23002455_
     
 
-_Universidad Galileo - [Course Name/Year]_
+_Universidad Galileo - 2026_
