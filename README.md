@@ -1,6 +1,6 @@
 # Breast Cancer Wisconsin Diagnostic Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/breast-cancer-ai-project/blob/main/notebooks/01_main_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citruspunch/breast-cancer-ai-project/blob/main/notebooks/01_main_pipeline.ipynb)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![uv](https://img.shields.io/badge/uv-fast-magenta)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -45,13 +45,13 @@ BREAST-CANCER-AI-PROJECT/
 
 ## Local Installation & Execution
 
-This project uses [uv](https://github.com/astral-sh/uv) for blazing-fast, deterministic dependency management, but supports standard `pip` for universal accessibility.
+This project uses [uv](https://github.com/astral-sh/uv) for fast, deterministic dependency management, but supports standard `pip` for universal accessibility.
 
 ### Option A: Using `uv` (Recommended)
 
 ```Bash
 # Clone the repository
-git clone [https://github.com/your-username/breast-cancer-ai-project.git](https://github.com/your-username/breast-cancer-ai-project.git)
+git clone [https://github.com/citruspunch/breast-cancer-ai-project.git](https://github.com/citruspunch/breast-cancer-ai-project.git)
 cd breast-cancer-ai-project
 
 # Initialize the environment and install dependencies instantly
@@ -65,7 +65,7 @@ source .venv/bin/activate
 
 ```Bash
 # Clone the repository
-git clone [https://github.com/your-username/breast-cancer-ai-project.git](https://github.com/your-username/breast-cancer-ai-project.git)
+git clone [https://github.com/citruspunch/breast-cancer-ai-project.git](https://github.com/citruspunch/breast-cancer-ai-project.git)
 cd breast-cancer-ai-project
 
 # Create a standard virtual environment
