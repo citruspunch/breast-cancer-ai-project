@@ -28,19 +28,19 @@ To ensure strict mathematical validity and prevent data leakage, this pipeline e
 
 ```text
 BREAST-CANCER-AI-PROJECT/
-├── README.md                   # Project documentation
-├── requirements.txt            # Universal dependency fallbacks
-├── pyproject.toml              # uv and ruff configuration
+├── README.md                           # Project documentation
+├── requirements.txt                    # Universal dependency fallbacks
+├── pyproject.toml                      # uv and ruff configuration
 │
 ├── notebooks/                  
-│   └── 01_main_pipeline.ipynb  # Primary ML pipeline execution
+│   └── 01_main_pipeline.ipynb          # Primary ML pipeline execution
 │
 ├── outputs/                    
-│   ├── figures/                # Visualizations (ROC Curves, Confusion Matrices)
-│   └── metrics/                # Exported classification reports
+│   ├── figures/                         # Visualizations (ROC Curves, Confusion Matrices)
+│   └── metrics/                        # Exported classification reports
 │
 └── poster/                     
-    └── final_poster.pdf        # Scientific poster presentation (Spanish)
+    └── breast_cancer_ml_poster.pdf     # Scientific poster presentation
 ```
 
 ## Local Installation & Execution
